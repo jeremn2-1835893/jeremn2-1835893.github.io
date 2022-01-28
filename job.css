@@ -1,0 +1,16 @@
+body {
+    background-image: url(wood.jpg);
+}
+.field {
+    background-color: tan;
+}
+h2 {
+    background-color: thistle;
+    font-size: 60px;
+    font-family: "Passion One"
+}
+form {
+    background-color: wheat;
+    font-family: "Passion One"
+   
+}
